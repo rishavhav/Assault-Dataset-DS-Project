@@ -58,4 +58,4 @@ The following steps were implemented in the Jupyter Notebook to clean the assaul
 
 ## Contact
 
-For any queries regarding this project or the data cleaning process, please contact [Your Name] at [Your Email].
+For any queries regarding this project or the data cleaning process, please contact Rishav Goutam Soam at rs1470@rit.edu.
