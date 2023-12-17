@@ -6,9 +6,8 @@ This README document describes the data cleaning process implemented for the Ass
 
 ## Files
 
-- `Project_Assault_Data_Rochester.ipynb`: Jupyter Notebook containing the data cleaning code and preliminary analysis.
-- `assault_data_raw.csv`: Original dataset (replace with the actual filename).
-- `assault_data_cleaned.csv`: Cleaned dataset after processing.
+- `Assault_Dataset.csv`: Original dataset.
+
 - `processed_rochester_assault_data.csv`: The final processed dataset, which includes the results of imputation, scaling, PCA, and the combination with categorical data, has been saved to a CSV file.
 
 ## Data Cleaning Steps
